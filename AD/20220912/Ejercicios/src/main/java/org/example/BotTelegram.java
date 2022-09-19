@@ -22,6 +22,7 @@ public class BotTelegram extends TelegramLongPollingBot {
 
         if (texto.equals("/start")) {
             onUpdateReceived(update);
+            System.out.println("dadad");
         }
         // Al recibir el texto /ayuda el bot mostrara los comandos disponibles .
 
