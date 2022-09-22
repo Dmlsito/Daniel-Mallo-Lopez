@@ -31,7 +31,7 @@ public class App
             OutputStreamWriter out2 = new OutputStreamWriter(out, "ISO-8859-1");
 
             if(copiarYguardar(in, in2, out, out2)){
-                System.out.println("La operacio ha sido un exito");
+                System.out.println("La operacion ha sido un exito");
             }
 
         }catch(Exception e){
