@@ -12,9 +12,6 @@ public class App
     public static void main( String[] args ) {
 
         ejercicio2();
-
-
-
     }
 
     private static void ejercicio2() {
