@@ -8,6 +8,8 @@ public class Ej2 {
         //Abrir un fichero y leerlo byte a byte mostrando cada uno de estos en la pantalla en formato decimal, en formato hexadecimal y en formato char
         //separando cada byte por un guion.
 
+        ejercicio2();
+
     }
 
     private static  void ejercicio2(){
