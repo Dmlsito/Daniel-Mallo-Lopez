@@ -1,0 +1,14 @@
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\bin\Debug\Clase.exe.config
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\bin\Debug\Clase.exe
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\bin\Debug\Clase.pdb
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.csproj.AssemblyReference.cache
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.Formulario.resources
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.Properties.Resources.resources
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.csproj.GenerateResource.cache
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.exe
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.pdb
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.Ejercicio1.resources
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.Ejercicio2.resources
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.Ejercicio3.resources
