@@ -44,17 +44,9 @@ namespace Clase
 
         }
 
-        private void asignarCoche()
-        {
-            //Error aqui
-            if (radioButton1.Checked && radioButton4.Checked)
-            {
-
-                pictureBox1.Image = Resources;
-            }
+       
 
         }
 
 
     }
-}
