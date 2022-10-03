@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alumno.cs" />
     <Compile Include="Ejercicio1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +65,24 @@
     <Compile Include="Ejercicio3.Designer.cs">
       <DependentUpon>Ejercicio3.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ejercicio4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio4.Designer.cs">
+      <DependentUpon>Ejercicio4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio7.Designer.cs">
+      <DependentUpon>Ejercicio7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercico5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercico5.Designer.cs">
+      <DependentUpon>Ejercico5.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,17 +100,32 @@
     <EmbeddedResource Include="Ejercicio3.resx">
       <DependentUpon>Ejercicio3.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio4.resx">
+      <DependentUpon>Ejercicio4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio7.resx">
+      <DependentUpon>Ejercicio7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercico5.resx">
+      <DependentUpon>Ejercico5.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -127,6 +161,17 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Maseratti amarillo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
