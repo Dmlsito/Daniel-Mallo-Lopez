@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Empleados>
+    <Empleado Nombre = "Rodrigo">
+        <Edad>30</Edad>
+        <Genero>Hombre</Genero>
+        <Altura>1.89</Altura>
+    </Empleado>
+    <Empleado Nombre = "Daniel">
+        <Edad>20</Edad>
+        <Genero>Hombre</Genero>
+        <Altura>1.75</Altura>
+    </Empleado>
+    <Empleado Nombre = "Laura">
+        <Edad>20</Edad>
+        <Genero>Mujer</Genero>
+        <Altura>1.60</Altura>
+    </Empleado>
+    <Empleado Nombre = "Marcos">
+        <Edad>34</Edad>
+        <Genero>Hombre</Genero>
+        <Altura>1.98</Altura>
+    </Empleado>
+
+
+</Empleados>

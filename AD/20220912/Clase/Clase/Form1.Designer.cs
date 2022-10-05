@@ -32,6 +32,7 @@ namespace Clase
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -39,7 +40,8 @@ namespace Clase
             this.button1 = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.button6 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -55,6 +57,8 @@ namespace Clase
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.LightCyan;
+            this.panel2.Controls.Add(this.button8);
+            this.panel2.Controls.Add(this.button7);
             this.panel2.Controls.Add(this.button6);
             this.panel2.Controls.Add(this.button5);
             this.panel2.Controls.Add(this.button4);
@@ -65,6 +69,19 @@ namespace Clase
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(197, 580);
             this.panel2.TabIndex = 1;
+            // 
+            // button6
+            // 
+            this.button6.BackColor = System.Drawing.Color.SlateBlue;
+            this.button6.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.button6.Location = new System.Drawing.Point(4, 213);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(194, 40);
+            this.button6.TabIndex = 2;
+            this.button6.Text = "Ejercicio7";
+            this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button5
             // 
@@ -146,18 +163,25 @@ namespace Clase
             this.panel4.Size = new System.Drawing.Size(1352, 580);
             this.panel4.TabIndex = 3;
             // 
-            // button6
+            // button7
             // 
-            this.button6.BackColor = System.Drawing.Color.SlateBlue;
-            this.button6.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button6.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.button6.Location = new System.Drawing.Point(3, 227);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(194, 40);
-            this.button6.TabIndex = 2;
-            this.button6.Text = "Ejercicio7";
-            this.button6.UseVisualStyleBackColor = false;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
+            this.button7.Location = new System.Drawing.Point(-11, 259);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(222, 38);
+            this.button7.TabIndex = 4;
+            this.button7.Text = "Ejercicio8";
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
+            // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(-1, 316);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(199, 36);
+            this.button8.TabIndex = 5;
+            this.button8.Text = "Ejercicio9";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // Formulario
             // 
@@ -192,6 +216,8 @@ namespace Clase
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Button button8;
     }
 }
 

@@ -4,21 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7e4f93d-44c8-4d09-8a16-e42f963ff52d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Mascota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Mascotas.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ParseadorMascotaSAX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Teoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EscrituraXML/src/main/java/org/example/EscrituraXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EscrituraXML/src/main/java/org/example/EscrituraXML.java" afterDir="false" />
+    <list default="true" id="e7e4f93d-44c8-4d09-8a16-e42f963ff52d" name="Changes" comment="Ejercicio SAX no acabado">
+      <change afterPath="$PROJECT_DIR$/../JAX/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/Alumnos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/AlumnosJAXB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/XML.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/src/main/java/org/example/Empleados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/src/main/java/org/example/EmpleadosSAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/.vs/Clase/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/.vs/Clase/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/Clase/Clase.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/Clase.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/Clase/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/Clase/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/Clase/bin/Debug/Clase.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/bin/Debug/Clase.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/Clase/bin/Debug/Clase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/bin/Debug/Clase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mascota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Mascota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mascotas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Mascotas.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ParseadorMascotaSAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ParseadorMascotaSAX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Teoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Teoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +71,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Teoria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Teoria" />
+      <module name="SAX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Teoria" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +108,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664788673207</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio SAX no acabado">
+      <created>1664793497052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664793497052</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +128,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio SAX no acabado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio SAX no acabado" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

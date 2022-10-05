@@ -21,7 +21,11 @@ namespace Clase
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        {}
+        {
+
+        
+        
+        }
 
         private void label1_Click(object sender, EventArgs e)
         {}
@@ -96,6 +100,19 @@ namespace Clase
             Ejercicio7 formulario = new Ejercicio7();
             formulario.ShowDialog();
 
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Ejercicio8 formulario = new Ejercicio8();
+            formulario.ShowDialog();
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Ejercicio9 formulario = new Ejercicio9();
+            formulario.ShowDialog();
         }
     }
 }

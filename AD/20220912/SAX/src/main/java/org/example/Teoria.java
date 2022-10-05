@@ -15,16 +15,13 @@ public class Teoria
     public static void main( String[] args )
     {
 
-        String edad;
-        String genero;
-        String tipo;
-        String nombre;
+
 
         try{
             XMLReader lector = XMLReaderFactory.createXMLReader();
             ParseadorMascotaSAX parser = new ParseadorMascotaSAX();
             lector.setContentHandler(parser);
-            InputSource fichero = new InputSource("C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\AD\20220912\\SAX\src\\main\\java\\org\\example\\Mascotas.xml");
+            InputSource fichero = new InputSource("C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\AD\\20220912\\SAX\\src\\main\\java\\org\\example\\Mascotas.xml");
             lector.parse(fichero);
             ArrayList<Mascota> lista = parser.obtenerResultado();
             System.out.println(lista);

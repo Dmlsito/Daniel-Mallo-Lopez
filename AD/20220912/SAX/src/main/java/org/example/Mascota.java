@@ -4,10 +4,10 @@ public class Mascota {
      String nombre;
      String tipo ;
      String genero;
-     int  edad;
+     String  edad;
 
     //Constructor
-    public Mascota(String tipo, int  edad, String genero, String nombre){
+    public Mascota(String tipo, String  edad, String genero, String nombre){
         this.tipo = tipo;
         this.edad = edad;
         this.genero = genero;
@@ -25,7 +25,7 @@ public class Mascota {
     public String getGenero(){
         return this.genero;
     }
-    public int getEdad(){
+    public String getEdad(){
         return this.edad;
     }
 
@@ -37,6 +37,10 @@ public class Mascota {
     }
     public void setEdad(String edad){
         this.tipo = edad;
+    }
+
+    public void setNombre(String nombre){
+        this.nombre = nombre;
     }
 
 

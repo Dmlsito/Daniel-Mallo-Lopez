@@ -1,7 +1,7 @@
 package org.example;
 import java.util.ArrayList;
+import java.util.Locale;
 
-import javafx.scene.control.IndexRange;
 import org.xml.sax.Attributes;
 import org.xml.sax.helpers.DefaultHandler;
 
@@ -11,26 +11,29 @@ public class ParseadorMascotaSAX extends DefaultHandler {
     private String valorElemento;
 
     enum tiposNodos{
-        NOMBRE,
-        TIPO,
-        mascotas,
+        MASCOTAS,
         MASCOTA,
+        TIPO,
         EDAD,
         GENERO;
     }
 
-   public void ParseadorMascotas(){
-       listado = new ArrayList<Mascota>();
+   public ParseadorMascotaSAX(){
+        super();
    }
 
-    @Override
+   @Override
+   public void startDocument(){
+        listado = new ArrayList<Mascota>();
+   }
+   @Override
     public void startElement(String uri, String localName, String qName, Attributes attributes){
         if(localName != null){
 
-            switch(tiposNodos.valueOf(localName.toUpperCase())){
+            switch(tiposNodos.valueOf(localName.toUpperCase(Locale.ROOT))){
                 case MASCOTA:
                     mascota = new Mascota();
-                    String nombre = attributes.getValue("nombre");
+                    String nombre = attributes.getValue("Nombre");
                     if(mascota != null){
                         mascota.nombre = nombre;
                     }
@@ -45,7 +48,7 @@ public class ParseadorMascotaSAX extends DefaultHandler {
                     listado.add(mascota);
                     break;
                 case EDAD:
-                    mascota.edad = Integer.parseInt(valorElemento);
+                    mascota.setEdad(valorElemento);
                     break;
                 case TIPO:
                     mascota.tipo = valorElemento;
@@ -53,11 +56,18 @@ public class ParseadorMascotaSAX extends DefaultHandler {
                 case GENERO:
                     mascota.genero = valorElemento;
                     break;
-                case NOMBRE:
-                    mascota.nombre = valorElemento;
-                    break;
+
             }
         }
+    }
+
+    @Override
+    public void characters(char [] ch, int start, int length){
+
+        valorElemento = new String(ch, start, length);
+    }
+    public ArrayList<Mascota> obtenerResultado(){
+        return listado;
     }
 
 

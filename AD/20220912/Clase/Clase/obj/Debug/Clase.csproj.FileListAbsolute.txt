@@ -17,3 +17,4 @@ C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\
 C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.Ejercicio4.resources
 C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.Ejercico5.resources
 C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.Ejercicio7.resources
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\Clase\Clase\obj\Debug\Clase.Ejercicio8.resources
