@@ -52,7 +52,7 @@ public class Mascota {
 
 @Override
     public String toString(){
-        String resultado = this.Nombre + " " + this.edad + " " + this.genero + " " + this.tipo;
+        String resultado = this.Nombre + ", " + this.edad + ", " + this.genero + ", " + this.tipo;
         return resultado;
     }
 }
