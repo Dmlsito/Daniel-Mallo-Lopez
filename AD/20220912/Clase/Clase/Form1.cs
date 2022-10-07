@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -112,6 +113,12 @@ namespace Clase
         private void button8_Click(object sender, EventArgs e)
         {
             Ejercicio9 formulario = new Ejercicio9();
+            formulario.ShowDialog();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            Ejercicio10 formulario = new Ejercicio10();
             formulario.ShowDialog();
         }
     }

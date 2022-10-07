@@ -43,9 +43,14 @@ public class Mascota {
         this.nombre = nombre;
     }
 
-
-
-
-
-
+//Metodo toString para que funcione bien el ArrayList.
+    @Override
+    public String toString() {
+        return "Mascota{" +
+                "nombre='" + nombre + '\'' +
+                ", tipo='" + tipo + '\'' +
+                ", genero='" + genero + '\'' +
+                ", edad='" + edad + '\'' +
+                '}';
+    }
 }

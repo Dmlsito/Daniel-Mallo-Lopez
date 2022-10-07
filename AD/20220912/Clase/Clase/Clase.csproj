@@ -53,6 +53,12 @@
     <Compile Include="Ejercicio1.Designer.cs">
       <DependentUpon>Ejercicio1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ejercicio10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio10.Designer.cs">
+      <DependentUpon>Ejercicio10.cs</DependentUpon>
+    </Compile>
     <Compile Include="Ejercicio2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -103,8 +109,56 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\BotonSaludar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BotonSaludar.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Generico.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Generico.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\GenericoBoton.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoBoton.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\GenericoBtnEspañol.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoBtnEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\GenericoEspañol.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\GenericoIngles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoIngles.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\GenericolblEspañol.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericolblEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\GenericoLenguaje.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoLenguaje.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\GenericoSaludo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoSaludo.resx</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Ejercicio1.resx">
       <DependentUpon>Ejercicio1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio10.resx">
+      <DependentUpon>Ejercicio10.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Ejercicio2.resx">
       <DependentUpon>Ejercicio2.cs</DependentUpon>
@@ -131,6 +185,43 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\BotonSaludar.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>BotonSaludar.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Generico.en.resx" />
+    <EmbeddedResource Include="Resources\Generico.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Generico.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\GenericoBoton.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoBoton.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\GenericoBtnEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoBtnEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\GenericoEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\GenericoIngles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoIngles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\GenericolblEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericolblEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\GenericoLenguaje.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoLenguaje.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\GenericoSaludo.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoSaludo.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

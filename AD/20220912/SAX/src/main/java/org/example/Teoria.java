@@ -25,13 +25,6 @@ public class Teoria
             lector.parse(fichero);
             ArrayList<Mascota> lista = parser.obtenerResultado();
             System.out.println(lista);
-
-
-
-
-
-
-
         }catch(Exception e){
             e.printStackTrace();
         }

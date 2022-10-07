@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7e4f93d-44c8-4d09-8a16-e42f963ff52d" name="Changes" comment="Ejercicio SAX no acabado">
-      <change afterPath="$PROJECT_DIR$/../JAX/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/Alumnos.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/AlumnosJAXB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAX/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/XML.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/src/main/java/org/example/Empleados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/src/main/java/org/example/EmpleadosSAX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PruebasDeSax/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/Alumno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Clase/.vs/Clase/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/.vs/Clase/v17/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Clase/Clase/Clase.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/Clase.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Clase/Clase/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/Form1.Designer.cs" afterDir="false" />
@@ -40,11 +17,10 @@
       <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.GenerateResource.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAX/src/main/java/org/example/AlumnosJAXB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/AlumnosJAXB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAX/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mascota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Mascota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mascotas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Mascotas.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ParseadorMascotaSAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ParseadorMascotaSAX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Teoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Teoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
