@@ -31,8 +31,9 @@ public class Main {
             if (file.exists()) {
                 JAXBContext jaxbContext = JAXBContext.newInstance(Alumno.class);
                 Unmarshaller jaxUnmarshaller = jaxbContext.createUnmarshaller();
-                Alumno listaAlumno = (Alumno) jaxUnmarshaller.unmarshal(file);
-                alumnos = (listaAlumno != null) ? listaAlumno.getListaAlumnos() : new ArrayList<AlumnosJAXB>();
+                Alumno listAlumno = (Alumno) jaxUnmarshaller.unmarshal(file);
+                alumnos = (listAlumno != null) ? listAlumno.getListAlumnos() : new ArrayList<AlumnosJAXB>();
+                System.out.println(alumnos);
             } else {
                 System.out.println("No se ha podido encontrar el fichero indicado");
             }

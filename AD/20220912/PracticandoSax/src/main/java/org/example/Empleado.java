@@ -10,7 +10,8 @@ public class Empleado {
 
     public Empleado(){}
 
-    public Empleado(String genero, String edad, String altura){
+    public Empleado(String genero, String edad, String altura, String nombre){
+        this.nombre = nombre;
         this.genero = genero;
         this.edad = edad;
         this.altura = altura;
@@ -45,5 +46,15 @@ public class Empleado {
 
     public void setNombre(String nombre){
         this.nombre = nombre;
+    }
+
+    @Override
+    public String toString() {
+        return "Empleado{" +
+                "genero='" + genero + '\'' +
+                ", edad='" + edad + '\'' +
+                ", altura='" + altura + '\'' +
+                ", nombre='" + nombre + '\'' +
+                '}';
     }
 }

@@ -19,7 +19,6 @@ public class Main
     public static void mostrarEscenas(){
         //Ruta del path
         String ruta = "C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\AD\\20220912\\Aventura\\src\\main\\java\\org\\example\\Aventura.xml";
-        // Creamos el arrayList en donde se guardaran las escenas
 
         try {
             File file = new File(ruta);
@@ -28,14 +27,7 @@ public class Main
                 Unmarshaller unmarshaller = context.createUnmarshaller();
                 Aventura aventura = (Aventura) unmarshaller.unmarshal(file);
 
-              System.out.println(aventura);
-
-                /*//Imprimimos la primera escena
-                for(int i  = 0; i< 1; i++){
-                    System.out.println(lista.get(0));
-                }
-                +7
-                 */
+                System.out.println(aventura);
             }else{
                 System.out.println("Fichero no encontrado");
             }

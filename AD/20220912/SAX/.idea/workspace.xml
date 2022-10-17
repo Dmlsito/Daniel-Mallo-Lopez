@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7e4f93d-44c8-4d09-8a16-e42f963ff52d" name="Changes" comment="Ejercicio SAX no acabado">
-      <change afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/Alumno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/.vs/Clase/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/.vs/Clase/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/Clase/Clase.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/Clase.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/Clase/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/Form1.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/Clase/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/Form1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/Clase/bin/Debug/Clase.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/bin/Debug/Clase.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/Clase/bin/Debug/Clase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/bin/Debug/Clase.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.csproj.GenerateResource.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase/Clase/obj/Debug/Clase.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAX/src/main/java/org/example/AlumnosJAXB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/AlumnosJAXB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAX/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAX/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="e7e4f93d-44c8-4d09-8a16-e42f963ff52d" name="Changes" comment="o">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mascota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Mascota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Teoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Teoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664793497052</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SAX">
+      <created>1665153904977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665153904977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="o">
+      <created>1665237406003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665237406003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +105,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio SAX no acabado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio SAX no acabado" />
+    <MESSAGE value="SAX" />
+    <MESSAGE value="o" />
+    <option name="LAST_COMMIT_MESSAGE" value="o" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

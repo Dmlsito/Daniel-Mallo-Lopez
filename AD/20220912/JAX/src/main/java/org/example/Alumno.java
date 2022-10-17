@@ -6,15 +6,15 @@ import java.util.ArrayList;
 @XmlRootElement(name= "listAlumnos")
 public class Alumno {
 
-    private ArrayList <AlumnosJAXB> listaAlumnos;
+    private ArrayList <AlumnosJAXB> listAlumnos;
 
-    //Constructor
-    public void setListaAlumnos(ArrayList<AlumnosJAXB> listaAlumno){
-        this.listaAlumnos = listaAlumno;
+
+    public void setListAlumnos(ArrayList<AlumnosJAXB> listaAlumno){
+        this.listAlumnos = listaAlumno;
     }
 
-    @XmlElement
-    public ArrayList<AlumnosJAXB> getListaAlumnos(){
-        return this.listaAlumnos;
+    @XmlElement(name = "alumno")
+    public ArrayList<AlumnosJAXB> getListAlumnos(){
+        return this.listAlumnos;
     }
 }

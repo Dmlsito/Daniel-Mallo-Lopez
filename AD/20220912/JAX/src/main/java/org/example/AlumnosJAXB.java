@@ -38,11 +38,12 @@ public class AlumnosJAXB {
         this.edad = edad;
     }
 
-
-
-
-
-
-
-
+    @Override
+    public String toString() {
+        return "AlumnosJAXB{" +
+                "id=" + id +
+                ", nombre='" + nombre + '\'' +
+                ", edad=" + edad +
+                '}';
+    }
 }

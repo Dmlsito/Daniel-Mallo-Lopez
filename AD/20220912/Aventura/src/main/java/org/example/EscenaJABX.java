@@ -2,49 +2,29 @@ package org.example;
 
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
+import java.util.ArrayList;
 
 public class EscenaJABX {
 
-    int codigoEscena;
-    String texto;
-    String textoOpcion;
-    int id;
-    int resultado;
-    String titulo;
+    private int codigoEscena;
+    private String texto;
+    private ArrayList<OpcionJABX> listadoOpciones;
 
     //Constructores
     public EscenaJABX(){}
 
-    public EscenaJABX( String texto, String textoOpcion, int codigoEscena, int id, int resultado){
+    public EscenaJABX(String texto, int codigoEscena, ArrayList<OpcionJABX> listadoOpciones ){
         this.texto = texto;
-        this.textoOpcion = textoOpcion;
         this.codigoEscena = codigoEscena;
-        this.id = id;
-        this.resultado = resultado;
+        this.listadoOpciones = listadoOpciones;
     }
-
     //Getters
-
     public int getCodigoEscena() {
         return codigoEscena;
     }
-
-    public int getId() {
-        return id;
-    }
-
-    public int getResultado() {
-        return resultado;
-    }
-
     public String getTexto() {
         return texto;
     }
-
-    public String getTextoOpcion() {
-        return textoOpcion;
-    }
-
 
     //Setters
     @XmlAttribute(name = "codigo")
@@ -52,33 +32,15 @@ public class EscenaJABX {
         this.codigoEscena = codigoEscena;
     }
 
-    @XmlAttribute(name = "id")
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    @XmlAttribute(name = "resultado")
-    public void setResultado(int resultado) {
-        this.resultado = resultado;
-    }
-
     @XmlElement
     public void setTexto(String texto) {
         this.texto = texto;
     }
 
-    @XmlAttribute(name = "texto")
-    public void setTextoOpcion(String textoOpcion) {
-        this.textoOpcion = textoOpcion;
-    }
-
-
-
     //ToString
-
     @Override
     public String toString() {
-       String resultado = this.codigoEscena + "\n " + this.texto ;
+       String resultado = this.codigoEscena + "\n " + this.texto + "\n" + this.listadoOpciones ;
        return resultado;
     }
 }

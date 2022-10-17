@@ -9,41 +9,30 @@ import java.util.ArrayList;
 @XmlRootElement(name = "aventura")
 public class Aventura {
     //Atributos
-    public ArrayList<EscenaJABX> listaEscenas ;
-    public String titulo;
+    private ArrayList<EscenaJABX> listaEscenas ;
 
-
-    //Constructores
-
-    public Aventura(String titulo, ArrayList<EscenaJABX> listaEscenas){
-        this.titulo = titulo;
-        this.listaEscenas = listaEscenas;
-    }
-    public Aventura(){}
+    private String titulo;
 
     //Getters y setters
     public ArrayList<EscenaJABX> getListaEscenas(){
         return listaEscenas;
     }
-
-    @XmlElement(name = "escena")
-    public void setListaEscenas(ArrayList<EscenaJABX> listaEscenas){
+@XmlElement(name = "escena")
+    public void setListaEscenas(ArrayList<EscenaJABX> listaEscenas) {
         this.listaEscenas = listaEscenas;
     }
 
     public String getTitulo() {
         return titulo;
     }
-
-    @XmlAttribute(name = "titulo")
-    public void setTitulo(String titulo){
+@XmlAttribute(name = "titulo")
+    public void setTitulo(String titulo) {
         this.titulo = titulo;
     }
 
-
-
+    //ToString
     @Override
     public String toString() {
-       return this.titulo + "\n" + this.listaEscenas;
+       return this.titulo + "\n" + this.listaEscenas + "\n";
     }
 }

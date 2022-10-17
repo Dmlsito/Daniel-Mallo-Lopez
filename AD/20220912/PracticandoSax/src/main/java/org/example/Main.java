@@ -22,12 +22,10 @@ public class Main
             XMLReader lector = XMLReaderFactory.createXMLReader();
             ParseadorEmpleadoSAX parseador = new ParseadorEmpleadoSAX();
             lector.setContentHandler(parseador);
-            InputSource xml = new InputSource("C:\\Users\\usuario\\Documents\\GitHub\\Daniel-Mallo-Lopez\\AD\\20220912\\PracticandoSax\\.idea\\Xml.xml");
+            InputSource xml = new InputSource("C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\AD\\20220912\\PracticandoSax\\src\\main\\java\\org\\example\\Empleado.xml");
             lector.parse(xml);
             ArrayList <Empleado> lista = parseador.ObenerResultado();
             System.out.println(lista);
-
-
 
         } catch (Exception e) {
             e.printStackTrace();

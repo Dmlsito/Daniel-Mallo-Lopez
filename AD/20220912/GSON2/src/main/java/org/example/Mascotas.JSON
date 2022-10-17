@@ -1,0 +1,21 @@
+
+          [
+  {
+    "nombre": "Rex",
+    "tipo": "perro",
+    "edad": "5",
+    "genero": "macho"
+  },
+  {
+    "nombre": "Luna",
+    "tipo": "gato",
+    "edad": "10",
+    "genero": "hembra"
+  },
+  {
+    "nombre": "Churchill",
+    "tipo": "gato",
+    "edad": "2",
+    "genero": "no genero"
+  }
+]
