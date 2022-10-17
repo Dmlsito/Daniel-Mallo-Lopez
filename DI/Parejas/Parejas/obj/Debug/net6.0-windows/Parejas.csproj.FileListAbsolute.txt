@@ -1,0 +1,86 @@
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\bin\Debug\net6.0-windows\Parejas.exe
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\bin\Debug\net6.0-windows\Parejas.deps.json
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\bin\Debug\net6.0-windows\Parejas.runtimeconfig.json
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\bin\Debug\net6.0-windows\Parejas.dll
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\bin\Debug\net6.0-windows\Parejas.pdb
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Form1.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.Resources.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.dll
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\refint\Parejas.dll
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.pdb
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.genruntimeconfig.cache
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\ref\Parejas.dll
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoJugador.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoLabelIdioma.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoStartButton.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoCbbItem1.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoCbbItem2.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoCbbItem3.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoCbbItem4.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.Resource1.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoButtonEspañol.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoLabeldiomaEspañol.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoLabelEspañol.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoDespedidaEspañol.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoDespedidaIngles.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoAdvertenciaEspañol.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoAdvertenciaIngles.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoDificilIngles.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoFacilIngles.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoNormalIngles.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoDificilEspañol.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoFacilEspañol.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoLabelDificultad.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoLabelDificultadEspañol.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoNormalEspañol.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoTemporizadorDesactivadoEspañol.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoTemporizadorDesactivadoIngles.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\bin\Debug\net6.0-windows\Parejas.exe
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\bin\Debug\net6.0-windows\Parejas.deps.json
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\bin\Debug\net6.0-windows\Parejas.runtimeconfig.json
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\bin\Debug\net6.0-windows\Parejas.dll
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\bin\Debug\net6.0-windows\Parejas.pdb
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.csproj.AssemblyReference.cache
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Form1.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoAdvertenciaEspañol.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoAdvertenciaIngles.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoButtonEspañol.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoCbbItem1.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoCbbItem2.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoCbbItem3.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoCbbItem4.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoDespedidaEspañol.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoDespedidaIngles.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoDificilEspañol.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoDificilIngles.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoFacilEspañol.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoFacilIngles.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoJugador.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoLabelDificultad.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoLabelDificultadEspañol.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoLabeldiomaEspañol.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoLabelEspañol.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoLabelIdioma.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoNormalEspañol.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoNormalIngles.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoStartButton.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoTemporizadorDesactivadoEspañol.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.GenericoTemporizadorDesactivadoIngles.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.Resource1.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.Properties.Resources.resources
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.csproj.GenerateResource.cache
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.AssemblyInfoInputs.cache
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.AssemblyInfo.cs
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.csproj.CoreCompileInputs.cache
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.dll
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\refint\Parejas.dll
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.pdb
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\Parejas.genruntimeconfig.cache
+D:\DAW2\Desarrolo de interfaces\Parejas\Parejas\obj\Debug\net6.0-windows\ref\Parejas.dll

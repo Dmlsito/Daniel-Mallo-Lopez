@@ -1,0 +1,251 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\GenericoAdvertenciaEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoAdvertenciaEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoAdvertenciaIngles.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoAdvertenciaIngles.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoButtonEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoButtonEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoCbbItem1.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoCbbItem1.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoCbbItem2.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoCbbItem2.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoCbbItem3.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoCbbItem3.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoCbbItem4.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoCbbItem4.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoDespedidaEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoDespedidaEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoDespedidaIngles.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoDespedidaIngles.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoDificilEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoDificilEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoDificilIngles.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoDificilIngles.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoFacilEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoFacilEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoFacilIngles.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoFacilIngles.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoJugador.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoJugador.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoLabelDificultad.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoLabelDificultad.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoLabelDificultadEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoLabelDificultadEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoLabeldiomaEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoLabeldiomaEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoLabelEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoLabelEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoLabelIdioma.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoLabelIdioma.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoNormalEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoNormalEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoNormalIngles.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoNormalIngles.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoStartButton.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoStartButton.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoTemporizadorDesactivadoEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoTemporizadorDesactivadoEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoTemporizadorDesactivadoIngles.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoTemporizadorDesactivadoIngles.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Resource1.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\GenericoAdvertenciaEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoAdvertenciaEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoAdvertenciaIngles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoAdvertenciaIngles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoButtonEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoButtonEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoCbbItem1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoCbbItem1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoCbbItem2.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoCbbItem2.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoCbbItem3.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoCbbItem3.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoCbbItem4.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoCbbItem4.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoDespedidaEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoDespedidaEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoDespedidaIngles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoDespedidaIngles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoDificilEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoDificilEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoDificilIngles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoDificilIngles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoFacilEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoFacilEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoFacilIngles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoFacilIngles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoJugador.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoJugador.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoLabelDificultad.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoLabelDificultad.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoLabelDificultadEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoLabelDificultadEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoLabeldiomaEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoLabeldiomaEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoLabelEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoLabelEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoLabelIdioma.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoLabelIdioma.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoNormalEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoNormalEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoNormalIngles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoNormalIngles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoStartButton.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoStartButton.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoTemporizadorDesactivadoEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoTemporizadorDesactivadoEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoTemporizadorDesactivadoIngles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoTemporizadorDesactivadoIngles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
