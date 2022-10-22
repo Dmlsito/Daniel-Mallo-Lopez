@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<aventura titulo = "Una noche normal">
+    <escena codigo = "1">
+        <texto>
+            Diviso algo en el cielo, eran aproximadamente las 3 de la mañana y ya tenía cuatro llamadas perdidas de mi madre, no podía ver casi nada, pero ese destello ilumino
+            toda la ladera de la montaña.
+        </texto>
+        <opcion id = "1" texto = "LLamar a la policia" resultado = "2"></opcion>
+        <opcion id = "2" texto = "Marcharse corriendo, no quiero problemas" resultado = "100"></opcion>
+        <opcion id = "3" texto = "Investigar lo sucedido" resultado = "3"></opcion>
+    </escena>
+    <escena codigo = "2">
+        <texto>
+            Cojo mi movil, con la mano temblorosa, marco como puedo e intentando no equivocarmne el numero de la policia, pero es en vano, el movil no da señal....</texto>
+        <opcion id = "1" texto = "Decido irme a casa, como si no hubiera pasado nada" resultado = "100"></opcion>
+        <opcion id = "2" texto = "Me armo de valor y decido investigar" resultado = "3"></opcion>
+
+    </escena>
+    <escena codigo = "3">
+        <texto>
+            Comienzo a bajar la ladera de la montaña, solo tenia una camiseta de manga corta encima y el aire frio de la noche empezaba a provocar que temblase todo mi
+            cuerpo, de repente un ruido ocupa el silencio que hasta ahora habia en el ambiente, a lo lejos distingo algo brillante, me acerco y veo una especie de portal difuso que desprenia
+            una gran luz roja.
+        </texto>
+        <opcion id = "1" texto = "Me meto de una" resultado = "4"></opcion>
+        <opcion id = "3" texto = "No quiero ir solo llamo, asi que llamo a dos amigos mios para que me ayuden con esto" resultado = "5"></opcion>
+    </escena>
+    <escena codigo = "4">
+        <texto>
+            No veo nada por unos momentos, cuando logro ver algo dislumbro un paramo arido, inerte, al cual no alcanzo poner final a simple vista. De repente veo a lo lejos un pequeño poblado.
+        </texto>
+        <opcion id = "1" texto = "Sigo adelante, pasando del poblado" resultado = "9"></opcion>
+        <opcion id = "2" texto = "Me lo he pensado mejor, es mejor volver a casa" resultado = "100"></opcion>
+        <opcion id = "3" texto = "Me dirijo al poblado" resultado = "10"></opcion>
+    </escena>
+    <escena codigo = "5">
+        <texto>
+            Llamo a mis amigos Alen y dani, me dicen que estoy loco, pero que van a venir a ayudarme porque eso es lo que hacen los amigos
+        </texto>
+        <opcion id = "1" texto = "Atravesais el portal todos juntos" resultado = "6"></opcion>
+    </escena>
+    <escena codigo = "6">
+        <texto>
+            Cruzamos los tres el portal, al llegar no vemos nada, todo esta muerto, vemos en frente de nosotros un gran castillo, pero en frente de nosotros hay un enorme pre-
+            cipicio....
+        </texto>
+        <opcion id = "1" texto = "Bajamos por le precipicio" resultado = "7"></opcion>
+        <opcion id = "2" texto = "Intentamos rodearlo" resultado = "8"></opcion>
+    </escena>
+
+    <escena codigo = "9">
+        <texto>
+            Ando dias, sin agua y sin comida, al final pierdo la consciencia y caigo al suelo
+        </texto>
+        <opcion id = "1" texto = "He muerto por deshidratación" resultado = "100"></opcion>
+    </escena>
+
+    <escena codigo = "10">
+        <texto>
+            LLego al poblado y resulta que las personas que viven alli piensan que soy una amenaza para ellos, me amenazan con unas estacas y me advierten que este sitio es una realidad paralela
+            en la cual casi todo esta muerto.
+        </texto>
+        <opcion id = "1" texto = "Me quedo a ayudar a esta gente" resultado = "100"></opcion>
+        <opcion id = "2" texto = "Me marcho a mi casa" resultado = "100"></opcion>
+    </escena>
+
+    <escena codigo = "7">
+        <texto>
+            Mientras estamos bajando dani, que esta por encima de nosotros dos se tropieza y provoca que nos caigamos los tres
+        </texto>
+        <opcion id = "1" texto = "He muerto aplastado contra el suelo" resultado = "100"></opcion>
+    </escena>
+    <escena codigo = "8">
+        <texto>
+            Encontramos un poblado al poder rodear el precipicio, nos cuentan la historia de esta tierra, que resulta ser una realidad paralela de nuestro mundo, el cual esta todo
+            esta muerto por culpa de una gran batalla que ocurrio hace siglos.
+        </texto>
+        <opcion id = "1" texto = "" resultado = "100"></opcion>
+    </escena>
+
+    <escena codigo = "100">
+        <texto>FINAL DE LA HISTORIA</texto>
+    </escena>
+
+
+
+
+
+
+
+
+</aventura>
