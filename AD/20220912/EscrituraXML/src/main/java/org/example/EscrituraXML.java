@@ -18,6 +18,10 @@ public class EscrituraXML
     public static void main( String[] args ) {
 
         try{
+            
+        
+            
+            
             DocumentBuilderFactory creador = DocumentBuilderFactory.newInstance();
             DocumentBuilder creadorDocumento = creador.newDocumentBuilder();
             Document documento = creadorDocumento.parse("C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\AD\\20220912\\EscrituraXML\\src\\main\\java\\org\\example\\Empleado.xml");
@@ -56,6 +60,7 @@ public class EscrituraXML
 
 
         }catch(Exception e){
+            
             e.printStackTrace();
         }
 

@@ -1,0 +1,17 @@
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\Practica.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\Practica.Form1.resources
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\Practica.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\Practica.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\Practica.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\Practica.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\bin\Debug\net6.0-windows\Practica.exe
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\bin\Debug\net6.0-windows\Practica.deps.json
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\bin\Debug\net6.0-windows\Practica.runtimeconfig.json
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\bin\Debug\net6.0-windows\Practica.dll
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\bin\Debug\net6.0-windows\Practica.pdb
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\Practica.dll
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\refint\Practica.dll
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\Practica.pdb
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\Practica.genruntimeconfig.cache
+C:\Users\usuario\Documents\GitHub\Daniel-Mallo-Lopez\DesarroloDeInterfaces\2022-2023\Practica\Practica\obj\Debug\net6.0-windows\ref\Practica.dll
