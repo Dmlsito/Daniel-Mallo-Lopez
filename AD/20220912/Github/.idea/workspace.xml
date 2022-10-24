@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5ae8b28-97fc-400a-b35c-e138f77d0153" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../DI/Parejas/Parejas/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DI/Parejas/Parejas/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaAventura/target/classes/org/example/Aventura.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaAventura/target/classes/org/example/Aventura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaAventura/target/classes/org/example/Escena.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaAventura/target/classes/org/example/Escena.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaAventura/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaAventura/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticaAventura/target/classes/org/example/Opcion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticaAventura/target/classes/org/example/Opcion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +30,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/daniel/Documents/GitHub/Daniel-Mallo-Lopez/AD/20220912/Github"
+    "last_opened_file_path": "C:/Users/daniel/Documents/GitHub/Daniel-Mallo-Lopez/AD/20220912/PracticaAventura"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

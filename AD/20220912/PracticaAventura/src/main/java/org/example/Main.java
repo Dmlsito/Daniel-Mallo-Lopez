@@ -15,7 +15,7 @@ public class Main
         Scanner teclado = new Scanner(System.in);
         int numeroEscena = 1;
         boolean partidaFinalizada = false;
-        String ruta = "E:\\DAW2\\Acceso a datos\\PracticaAventura\\src\\main\\java\\org\\example\\Aventura.xml";
+        String ruta = "C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\AD\\20220912\\PracticaAventura\\src\\main\\java\\org\\example\\Aventura.xml";
 
         //Instanciamos un objeto aventura
         Aventura aventura = new Aventura();
