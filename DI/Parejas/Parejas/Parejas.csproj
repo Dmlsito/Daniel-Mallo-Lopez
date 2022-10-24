@@ -44,6 +44,16 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>GenericoCbbItem4.resx</DependentUpon>
     </Compile>
+    <Compile Update="Properties\GenericoComboLengEs.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoComboLengEs.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoComboLengIn.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoComboLengIn.resx</DependentUpon>
+    </Compile>
     <Compile Update="Properties\GenericoDespedidaEspañol.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -64,6 +74,31 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>GenericoDificilIngles.resx</DependentUpon>
     </Compile>
+    <Compile Update="Properties\GenericoErrorComboDifiEs.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoErrorComboDifiEs.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoErrorComboDifiIn.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoErrorComboDifiIn.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoErrorTexto.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoErrorTexto.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoErrorTextoEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoErrorTextoEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoEspañol.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoEspañol.resx</DependentUpon>
+    </Compile>
     <Compile Update="Properties\GenericoFacilEspañol.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -73,6 +108,11 @@
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>GenericoFacilIngles.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\GenericoIngles.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>GenericoIngles.resx</DependentUpon>
     </Compile>
     <Compile Update="Properties\GenericoJugador.Designer.cs">
       <DesignTime>True</DesignTime>
@@ -170,6 +210,14 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>GenericoCbbItem4.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoComboLengEs.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoComboLengEs.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoComboLengIn.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoComboLengIn.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Update="Properties\GenericoDespedidaEspañol.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>GenericoDespedidaEspañol.Designer.cs</LastGenOutput>
@@ -186,6 +234,26 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>GenericoDificilIngles.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoErrorComboDifiEs.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoErrorComboDifiEs.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoErrorComboDifiIn.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoErrorComboDifiIn.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoErrorTexto.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoErrorTexto.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoErrorTextoEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoErrorTextoEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Update="Properties\GenericoFacilEspañol.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>GenericoFacilEspañol.Designer.cs</LastGenOutput>
@@ -193,6 +261,10 @@
     <EmbeddedResource Update="Properties\GenericoFacilIngles.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>GenericoFacilIngles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\GenericoIngles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoIngles.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="Properties\GenericoJugador.resx">
       <Generator>ResXFileCodeGenerator</Generator>
