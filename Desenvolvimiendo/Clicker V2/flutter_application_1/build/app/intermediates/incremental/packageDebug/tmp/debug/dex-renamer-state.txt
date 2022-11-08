@@ -1,0 +1,4 @@
+#Fri Nov 04 09:08:55 CET 2022
+base.0=C\:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\Desenvolvimiendo\\prueba\\flutter_application_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
