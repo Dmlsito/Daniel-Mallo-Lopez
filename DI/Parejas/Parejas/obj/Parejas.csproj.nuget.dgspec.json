@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DAW2\\Desarrolo de interfaces\\Parejas\\Parejas\\Parejas.csproj": {}
+    "C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\DI\\Parejas\\Parejas\\Parejas.csproj": {}
   },
   "projects": {
-    "E:\\DAW2\\Desarrolo de interfaces\\Parejas\\Parejas\\Parejas.csproj": {
+    "C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\DI\\Parejas\\Parejas\\Parejas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DAW2\\Desarrolo de interfaces\\Parejas\\Parejas\\Parejas.csproj",
+        "projectUniqueName": "C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\DI\\Parejas\\Parejas\\Parejas.csproj",
         "projectName": "Parejas",
-        "projectPath": "E:\\DAW2\\Desarrolo de interfaces\\Parejas\\Parejas\\Parejas.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\DAW2\\Desarrolo de interfaces\\Parejas\\Parejas\\obj\\",
+        "projectPath": "C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\DI\\Parejas\\Parejas\\Parejas.csproj",
+        "packagesPath": "C:\\Users\\daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\DI\\Parejas\\Parejas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
