@@ -36,7 +36,7 @@ public class EmpleadoCRUD {
             empleado.setEdad(document.getInteger("Edad"));
             empleado.setSueldo(document.getDouble("Sueldo"));
             empleado.setContratoFijo(document.getBoolean("ContratoFijo"));
-            empleado.setAlta(document.getDate("Alta"));
+            empleado.setAlta(document.getString("Alta"));
 
         }
         return empleado;
@@ -44,7 +44,7 @@ public class EmpleadoCRUD {
 
     //Operacion listar
 
-    private static List<Empleado> listarEmpleados(MongoCollection<Document> colMongo){
+     static List<Empleado> listarEmpleados(MongoCollection<Document> colMongo){
         //Creamos un objeto empleado para ir almacenando datos en el
         Empleado empleado;
 
@@ -65,7 +65,7 @@ public class EmpleadoCRUD {
     }
 
     //Operacion eleminar
-    private static void eliminarEmpleado(MongoCollection<Document> colMongo, String nombre){
+     static void eliminarEmpleado(MongoCollection<Document> colMongo, String nombre){
 
         try{
             colMongo.deleteOne(Filters.eq("Nombre", nombre));
@@ -75,7 +75,7 @@ public class EmpleadoCRUD {
     }
 
     //Operacion update
-    private static void actualizarEmpleado(MongoCollection <Document> colMongo, Empleado empleado){
+     static void actualizarEmpleado(MongoCollection <Document> colMongo, Empleado empleado){
         //Lo primero que tenemos que hacer es convertir al objeto empleado en un objeto documento para poder insertarlo en la BBDD
         Document document = empleadoAdocumento(empleado);
 
@@ -89,7 +89,7 @@ public class EmpleadoCRUD {
     }
 
     //Operacion consulta
-    private static Empleado consultarEmpleado(String nombre, MongoCollection <Document> colMongo){
+     static Empleado consultarEmpleado(String nombre, MongoCollection <Document> colMongo){
 
           Document document = colMongo.find(eq("Nombre", nombre)).first();
 
@@ -100,7 +100,7 @@ public class EmpleadoCRUD {
 
     //Operacion insert
 
-    private static void insertarEmpleado(Empleado empleado, MongoCollection<Document> colMongo){
+     static void insertarEmpleado(Empleado empleado, MongoCollection<Document> colMongo){
 
         Document document = empleadoAdocumento(empleado);
 

@@ -7,16 +7,16 @@ public class Empleado {
     private String nombre;
     private int edad;
     private boolean contratoFijo;
-    private Date alta;
+    private String alta;
     private double sueldo;
 
     Empleado(){}
-    Empleado(String nombre, int edad, boolean contratoFijo, Date alta, double sueldo){
-        nombre = this.nombre;
-        edad = this.edad;
-        contratoFijo = this.contratoFijo;
-        alta = this.alta;
-        sueldo = this.sueldo;
+    Empleado(String nombre, int edad, boolean contratoFijo, String alta, double sueldo){
+        this.nombre = nombre;
+        this.edad = edad;
+        this.contratoFijo = contratoFijo;
+        this.alta = alta;
+        this.sueldo = sueldo;
     }
 
     String getNombre(){
@@ -29,26 +29,36 @@ public class Empleado {
     boolean getContratoFijo(){
         return this.contratoFijo;
     }
-    Date getAlta(){
+    String getAlta(){
         return this.alta;
     }
     double getSueldo(){
         return this.sueldo;
     }
     void setNombre(String nombre){
-        nombre = this.nombre;
+        this.nombre = nombre;
     }
     void setEdad(int edad){
-        edad = this.edad;
+        this.edad = edad;
     }
-    void setAlta(Date alta){
-        alta = this.alta;
+    void setAlta(String alta){
+        this.alta = alta;
     }
     void setSueldo(double sueldo){
-        sueldo = this.sueldo;
+        this.sueldo = sueldo;
     }
     void setContratoFijo(boolean contratoFijo){
-        contratoFijo = this.contratoFijo;
+        this.contratoFijo = contratoFijo;
     }
 
+    @Override
+    public String toString() {
+        return "Empleado{" +
+                "nombre='" + nombre + '\'' +
+                ", edad=" + edad +
+                ", contratoFijo=" + contratoFijo +
+                ", alta='" + alta + '\'' +
+                ", sueldo=" + sueldo +
+                '}';
+    }
 }
