@@ -66,6 +66,7 @@ public class Main extends EmpleadoCRUD
             }
 
         }
+        //Cerramos la conexion cuando ya hagamos hecho todas las operaciones
         finally {
             if (cliente != null){
                 cliente.close();
