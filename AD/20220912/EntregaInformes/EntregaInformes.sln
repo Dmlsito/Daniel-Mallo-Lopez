@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "EntregaInformes", "EntregaInformes\EntregaInformes.rptproj", "{C340E084-154B-423B-82BE-8FBAEC97F7D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C340E084-154B-423B-82BE-8FBAEC97F7D7}.Debug|Default.ActiveCfg = Debug
+		{C340E084-154B-423B-82BE-8FBAEC97F7D7}.Debug|Default.Build.0 = Debug
+		{C340E084-154B-423B-82BE-8FBAEC97F7D7}.Debug|Default.Deploy.0 = Debug
+		{C340E084-154B-423B-82BE-8FBAEC97F7D7}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C340E084-154B-423B-82BE-8FBAEC97F7D7}.DebugLocal|Default.Build.0 = DebugLocal
+		{C340E084-154B-423B-82BE-8FBAEC97F7D7}.Release|Default.ActiveCfg = Release
+		{C340E084-154B-423B-82BE-8FBAEC97F7D7}.Release|Default.Build.0 = Release
+		{C340E084-154B-423B-82BE-8FBAEC97F7D7}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8685FBD8-0E25-4267-B8C5-80C10DC8000B}
+	EndGlobalSection
+EndGlobal

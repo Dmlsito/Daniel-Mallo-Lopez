@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D4BC645-3381-415F-8D61-485671D0AC20}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WinFormsEx</RootNamespace>
+    <AssemblyName>WinFormsEx</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FParte1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FParte1.Designer.cs">
+      <DependentUpon>FParte1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FParte2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FParte2.Designer.cs">
+      <DependentUpon>FParte2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FParte3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FParte3.Designer.cs">
+      <DependentUpon>FParte3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FParte4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FParte4.Designer.cs">
+      <DependentUpon>FParte4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\GenericoDespedidaEspañol.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoDespedidaEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\GenericoDespedidaIngles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoDespedidaIngles.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\GenericoTextButtonEspañol.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoTextButtonEspañol.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\GenericoTextButtonIngles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoTextButtonIngles.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\GenericoTextCheck1Español.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoTextCheck1Español.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\GenericoTextCheck1Ingles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoTextCheck1Ingles.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\GenericoTextCheck2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoTextCheck2.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\GenericoTextCheck2Ingles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GenericoTextCheck2Ingles.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FParte1.resx">
+      <DependentUpon>FParte1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FParte2.resx">
+      <DependentUpon>FParte2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FParte3.resx">
+      <DependentUpon>FParte3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FParte4.resx">
+      <DependentUpon>FParte4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\GenericoDespedidaEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoDespedidaEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\GenericoDespedidaIngles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoDespedidaIngles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\GenericoTextButtonEspañol.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoTextButtonEspañol.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\GenericoTextButtonIngles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoTextButtonIngles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\GenericoTextCheck1Español.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoTextCheck1Español.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\GenericoTextCheck1Ingles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoTextCheck1Ingles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\GenericoTextCheck2.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoTextCheck2.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\GenericoTextCheck2Ingles.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GenericoTextCheck2Ingles.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

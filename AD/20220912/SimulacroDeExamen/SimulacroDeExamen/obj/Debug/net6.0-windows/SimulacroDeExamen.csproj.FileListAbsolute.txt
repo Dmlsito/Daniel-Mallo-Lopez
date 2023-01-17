@@ -1,0 +1,17 @@
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\bin\Debug\net6.0-windows\SimulacroDeExamen.exe
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\bin\Debug\net6.0-windows\SimulacroDeExamen.deps.json
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\bin\Debug\net6.0-windows\SimulacroDeExamen.runtimeconfig.json
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\bin\Debug\net6.0-windows\SimulacroDeExamen.dll
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\bin\Debug\net6.0-windows\SimulacroDeExamen.pdb
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\SimulacroDeExamen.csproj.AssemblyReference.cache
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\SimulacroDeExamen.FParte1.resources
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\SimulacroDeExamen.csproj.GenerateResource.cache
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\SimulacroDeExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\SimulacroDeExamen.AssemblyInfoInputs.cache
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\SimulacroDeExamen.AssemblyInfo.cs
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\SimulacroDeExamen.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\SimulacroDeExamen.dll
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\refint\SimulacroDeExamen.dll
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\SimulacroDeExamen.pdb
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\SimulacroDeExamen.genruntimeconfig.cache
+C:\Users\daniel\Documents\GitHub\Daniel-Mallo-Lopez\AD\20220912\SimulacroDeExamen\SimulacroDeExamen\obj\Debug\net6.0-windows\ref\SimulacroDeExamen.dll

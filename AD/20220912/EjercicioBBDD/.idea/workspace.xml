@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b02f729f-7fe8-48ae-a92a-51afd57ceec4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ConexcionesBBDD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexcionesBBDD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexcionesBBDD/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexcionesBBDD/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexcionesBBDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexcionesBBDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexcionesBBDD/Teoria.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexcionesBBDD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexcionesBBDD/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConexcionesBBDD/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/Ejercicio2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/src/main/java/org/example/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/src/main/java/org/example/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/src/main/java/org/example/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/src/main/java/org/example/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/src/main/java/org/example/Pico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAMENHUGO/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Metodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenAlex/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenAlex/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenAlex/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenAlex/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenAlex/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenAlex/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenAlex/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenAlex/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenAlex/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/src/main/java/org/example/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolConexiones/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica/src/main/java/org/example/Hilo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KPGyuqO60joo9x0eguExoA2GLv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b02f729f-7fe8-48ae-a92a-51afd57ceec4" name="Changes" comment="" />
+      <created>1673869065536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673869065536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
