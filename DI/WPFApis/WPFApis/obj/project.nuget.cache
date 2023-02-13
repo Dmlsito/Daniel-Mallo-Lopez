@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vC/QfUOJCp3X36FOMrYkdtaq/190Kldjr/O7EIvRcwC2InjOrytOxk9SWP1pqyHDjDHaUCmS4QK7Sf8+rJeydQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel\\Documents\\GitHub\\Daniel-Mallo-Lopez\\DI\\WPFApis\\WPFApis\\WPFApis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\daniel\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
